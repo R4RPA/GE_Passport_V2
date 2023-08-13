@@ -1,0 +1,5 @@
+Pillow==9.5.0
+PyQt5==5.15.9
+PyQt5_sip==12.12.2
+python_pptx==0.6.21
+pywin32==306
